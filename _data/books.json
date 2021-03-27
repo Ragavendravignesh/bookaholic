@@ -1,0 +1,24 @@
+[
+	{
+		"_id":"605ef55ebd564714ccd4e2a9",
+		"bookCover":"no-photo.jpg",
+		"name":"The monk who sold his ferrari",
+		"description":"It is a self-help book written by Robin Sharma",
+		"averageRating":8,
+		"authorName":"Robin sharma",
+		"price":255,
+		"user":"605e367f73a5594c5c7aaefa",
+		"store":"605ef5152776f91a2470b154"
+	},
+	{
+		"_id":"605f269f030fca4a9c3c9f66",
+		"bookCover":"photo_605f269f030fca4a9c3c9f66.jpg",
+		"name":"The secret",
+		"description":"It is a self-help book.",
+		"averageRating":8.75,
+		"authorName":"Rohnda Byrne",
+		"price":255,
+		"user":"605e367f73a5594c5c7aaefa",
+		"store":"605f2641030fca4a9c3c9f65"
+	}
+]

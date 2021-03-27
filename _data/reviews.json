@@ -1,0 +1,18 @@
+[
+	{
+		"_id":"605f44fe03694e3a68fcbd1b",
+		"title":"Excellent Book with deep meaning",
+		"text":"This book is a nice one.",
+		"rating":10,
+		"book":"605f269f030fca4a9c3c9f66",
+		"user":"605f3bbaafebb523ec0f5924"
+	},
+	{
+		"_id":"605f453203694e3a68fcbd1c",
+		"title":"Good one",
+		"text":"This book is a good one.",
+		"rating":7.5,
+		"book":"605f269f030fca4a9c3c9f66",
+		"user":"605f3bbaafebb523ec0f5924"
+	}
+]

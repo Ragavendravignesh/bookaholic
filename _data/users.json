@@ -1,0 +1,23 @@
+[
+	{
+		"_id":"605e367f73a5594c5c7aaefa",
+		"role":"storeowner",
+		"name":"John doe",
+		"email":"johndoe@gmail.com",
+		"password":"123456"
+	},
+	{
+		"_id":"605eeff571bb840fb0f468ab",
+		"role":"storeowner",
+		"name":"Ragavendra Vignesh",
+		"email":"ragavendra@gmail.com",
+		"password":"123456"
+	},
+	{
+		"_id":"605f3bbaafebb523ec0f5924",
+		"role":"user",
+		"name":"Marry",
+		"email":"marry@gmail.com",
+		"password":"123456"
+	}
+]
